@@ -16,7 +16,7 @@ Computer Science degree holder 🎓 & a self-taught developer with a focus on **
 - **Tools**:
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-  ![Windsurf](https://img.shields.io/badge/Windsurfing-%23FF8C00?logo=windsurfing&logoColor=white)
+  ![Windsurf](https://img.shields.io/badge/Windsurfing-%23FF8C00?logo=windsurf&logoColor=white)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bmaaac&layout=compact)
 
