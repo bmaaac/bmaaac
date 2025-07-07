@@ -15,7 +15,7 @@ Computer Science degree holder 🎓 & a self-taught developer with a focus on **
   ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white)
 - **Tools**:
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-  ![VSCode](https://upload.wikimedia.org/wikipedia/commons/0/05/Visual_Studio_Code_1.35_icon.svg)
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
   ![Windsurf](https://img.shields.io/badge/Windsurf-%23FF8C00?logo=windsurf&logoColor=white)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bmaaac&layout=compact)
