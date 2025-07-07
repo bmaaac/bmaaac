@@ -6,23 +6,22 @@ Computer Science degree holder 💻 & a self-taught developer with a focus on **
 
 ## 💻 Tech Stack & Tools
 - **Frontend**:
-  HTML5/CSS3 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
-  React ![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
-  SCSS ![SCSS](https://img.shields.io/badge/-SCSS-pink?logo=sass&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
+  ![SCSS](https://img.shields.io/badge/-SCSS-pink?logo=sass&logoColor=white)
 - **Backend**:
-  Node.js ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)
-  Express ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white)
 - **Tools**:
-  Git ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-  VSCode ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-  Windsurf ![Windsurf](https://img.icons8.com/ios-filled/50/000000/windsurfing.png)
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+  ![Windsurf](https://img.icons8.com/ios-filled/50/000000/windsurfing.png)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ## Connect with me:
 
-- [LinkedIn](https://linkedin.com/in/johndoe](https://www.linkedin.com/in/brian-louise-macapagal-a866a723a/)
+- [LinkedIn](https://linkedin.com/in/brian-louise-macapagal-a866a723a/)
 - Email: bmac42969@gmail.com
  
