@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @bmaaac
-Computer Science degree holder 💻 & a self-taught developer with a focus on **Web Development** I'm constantly learning and exploring new technologies, and I'm open to collaborating on interesting projects.
+Computer Science degree holder 🎓 & a self-taught developer with a focus on **Web Development** I'm constantly learning and exploring new technologies, and I'm open to collaborating on interesting projects.
 🔭 I’m currently working on my career as a web developer
 
 🔗 Check out my [full portfolio of projects here](https://github.com/bmaaac/web-portfolio).
